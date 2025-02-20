@@ -2,7 +2,7 @@
 
 ##Limitations
 
-GitHub Pages does not support Gzip headers properly. You have two options:
+GitHub Pages does not support Gzip headers properly.
 
 Use Uncompressed Files
 
