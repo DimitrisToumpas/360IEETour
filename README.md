@@ -1,7 +1,4 @@
-
-URL: https://dimitristoumpas.github.io/360IEETour/ 
-
-URL: https://gregarious-souffle-eee2fc.netlify.app
+URL: https://iee-360tour.netlify.app/
 
 #GIT HUB PAGES
 
